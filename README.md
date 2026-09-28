@@ -1,9 +1,6 @@
 # Isolated-SPI-CAN-FD-MCP2518FD-ISO1042
-Open-source isolated SPI-to-CAN FD module based on Microchip MCP2518FD CAN FD controller and Texas Instruments ISO1042 isolated CAN transceiver.
+Open-source galvanically isolated SPI-to-CAN FD module based on Microchip MCP2518FD CAN FD controller and Texas Instruments ISO1042 isolated CAN transceiver.
 Isolated SPI-to-CAN FD Module
-
-An open-source galvanically isolated SPI-to-CAN FD interface module based on the Microchip MCP2518FD CAN FD controller and Texas Instruments ISO1042 isolated CAN transceiver.
-
 The module provides a practical solution for adding a reliable, isolated CAN/CAN FD interface to microcontrollers that have an available SPI interface but do not have an integrated CAN FD peripheral.
 
 Features
